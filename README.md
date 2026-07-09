@@ -109,7 +109,7 @@ tensorboard --logdir runs
 
 Validation and test metrics (accuracy, macro-F1, full per-class classification report) are computed during training at the frequency set by `--val-freq` / `--test-freq`. The best validation and test accuracies are reported at the end of training.
 
-## Data Format
+## Data Format samples
 
 Reuters-8-style datasets are TSV files with one example per line, plus a `labels.txt` listing class names one per line. IMDB uses the standard `aclImdb` layout and is fetched automatically.
 
