@@ -1,0 +1,36 @@
+.
+├── README.md
+├── datasets
+│   ├── __init__.py
+│   ├── bow.py
+│   ├── embed.py
+│   ├── imdb.py
+│   ├── readme
+│   ├── reuters8.py
+│   ├── utils.py
+│   └── vocab.py
+├── environment.yml
+├── main.py
+├── models
+│   ├── Readme
+│   ├── __init__.py
+│   ├── smdirichlet.py
+│   └── topicbert.py
+├── raw_data
+│   ├── Reuters8
+│   │   ├── labels.txt
+│   │   ├── readme
+│   │   ├── test.tsv
+│   │   ├── training.tsv
+│   │   └── validation.tsv
+│   └── readme
+├── runs
+│   └── readme
+├── structure.txt
+└── training
+    ├── __init__.py
+    ├── readme
+    ├── train_topicbert.py
+    └── utils.py
+
+7 directories, 27 files
