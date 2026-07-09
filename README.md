@@ -111,5 +111,5 @@ Validation and test metrics (accuracy, macro-F1, full per-class classification r
 
 ## Data Format samples
 
-Reuters-8-style datasets are TSV files with one example per line, plus a `labels.txt` listing class names one per line. IMDB uses the standard `aclImdb` layout and is fetched automatically.
+Reuters-8-style datasets are TSV files with one example per line, plus a `labels.txt` listing class names one per line. IMDB uses the standard `aclImdb` layout and is fetched automatically. Data sets are publicly available. Please refer to the documentation in our paper. 
 
